@@ -1,0 +1,43 @@
+<resources>
+
+    <style name="Theme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:textAppearance">@android:style/TextAppearance.Medium</item>
+    </style>
+
+
+    <style name="Theme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--Toolbar title style-->
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">@dimen/eighteen_sp</item>
+        <item name="android:fontFamily">@string/roboto_thin</item>
+        <!-- working <item name="android:textStyle">normal</item>-->
+    </style>
+
+    <style name="Theme.Gm.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Gm.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--View Styles-->
+
+    <style name="Custom.EditText" parent="Base.Widget.AppCompat.EditText">
+        <item name="android:layout_marginLeft">@dimen/left_margin</item>
+        <item name="android:layout_marginRight">@dimen/right_margin</item>
+        <item name="android:inputType">text</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+
+    <style name="Custom.Button" parent="Base.Widget.AppCompat.Button">
+        <item name="android:layout_marginLeft">@dimen/left_margin</item>
+        <item name="android:layout_marginRight">@dimen/right_margin</item>
+    </style>
+
+    <style name="Custom.Text" parent="android:Widget.TextView">
+        <item name="android:textSize">@dimen/eighteen_sp</item>
+        <item name="android:layout_marginLeft">@dimen/left_margin</item>
+        <item name="android:layout_marginRight">@dimen/right_margin</item>
+        <item name="android:layout_marginTop">@dimen/top_margin</item>
+    </style>
+
+</resources>

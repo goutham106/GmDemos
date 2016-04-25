@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Gm" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- <item name="colorButtonNormal">@color/colorPrimary</item>-->
+        <!--<item name="colorControlHighlight">@color/control_highlight</item>-->
+        <!--<item name="colorControlActivated">@color/control_activated</item>-->
+        <!--<item name="colorControlHighlight">@color/debug_yellow</item>-->
+        <!--<item name="colorControlActivated">@color/debug_red</item>-->
+
+        <!--<item name="android:windowBackground">@color/primary_dark</item>-->
+
+        <!--<item name="android:dialogTheme">@style/DialogTheme</item>
+        <item name="android:alertDialogTheme">@style/DialogTheme</item>-->
+    </style>
+
+    <style name="Theme.Gm" parent="Base.Theme.Gm" />
+
+    <style name="Theme.NoActionBar" parent="Theme.Gm">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>

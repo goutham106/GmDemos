@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+    <string name="oops_network_unavail">Oops! Network unavailable.\n Please try again.</string>
+    <string name="offline_refresh_btn">Refresh</string>
+    <string name="network_error">Network Error \n Please try after sometimes</string>
+
+    <string name="splash_screen">Splash Screen</string>
+
+    <!-- Strings related to login -->
+    <string name="welcome">Welcome</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+
+
+
+</resources>

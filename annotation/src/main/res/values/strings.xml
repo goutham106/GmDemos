@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Annotation</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="title_activity_home_actvity">HomeActvity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="device">Mobile</string>
+    <string name="choice_Title">Take or select a photo</string>
+
+    <!--Permission Check-->
+    <string name="help">Help</string>
+    <string name="help_text"> The Storage permission is missing.\n\nTo grant this permission click on Settings, then Permissions and turn the Storage permission on.\n\nThen click back twice to return to the app</string>
+    <string name="quit">Exit App</string>
+
+    <!--Util ImagePicker-->
+    <string name="initBitmapConfig">Please Initiate the compress format and image quality in App Config</string>
+    <string name="initTempFilePath">Please Initiate the FilePath in App Config</string>
+
+
+    <!--Fonts-->
+    <string name="roboto">RobotoCondensed-Light.ttf</string>
+    <string name="roboto_regular">Roboto-Regular.ttf</string>
+    <string name="roboto_italic">Roboto-Italic.ttf</string>
+    <string name="roboto_condensed_regular">RobotoCondensed-Regular.ttf</string>
+    <string name="roboto_bold">Roboto-Bold.ttf</string>
+    <string name="roboto_thin">Roboto-Thin.ttf</string>
+    <string name="roboto_light">Roboto-Light.ttf</string>
+    <string name="title_activity_delete">Delete</string>
+    <string name="external_storage_permission">WRITE STORAGE Permission is Denied \n Open Permission and enable Storage</string>
+
+
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="first_screen">First Screen</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="get_value">Get Value</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_secont_fragment_with_value">Go to Secont Fragment with Value</string>
+    <string name="go_to_fragment">Go to Fragment</string>
+
+    <string name="hello">Hello %s!</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">User@mail.com</string>
+
+    <color name="androidColor">#A4C639</color>
+
+    <string-array name="Fruits">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Mango</item>
+    </string-array>
+
+    <bool name="someBoolean">true</bool>
+    <string name="title_activity_fourth">FourthActivity</string>
+
+
+</resources>
